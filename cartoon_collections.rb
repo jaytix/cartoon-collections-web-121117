@@ -28,7 +28,8 @@ def find_the_cheese(array)
       if cheese == element
         cheese
       else
-        return nil  
+        return nil
+      end    
     end
   end
 end
